@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: aliceblue;
+}
+.dzire{
+    border: 2px;
+    border-style: solid;
+    width: 250px;
+    height:460px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 30px;
+    padding-left: 15px;
+}
+.dzire img{
+    width:200px;
+}
+.dzire button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.dzire button:hover{
+    background-color: green;
+}
+.aura{
+    border: 2px;
+    border-style: solid;
+    width: 250px;
+    height:460px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 380px;
+    padding-left: 15px;
+    margin-top: -462px;
+}
+.aura img{
+    width:200px;
+}
+.aura button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.aura button:hover{
+    background-color: green;
+}

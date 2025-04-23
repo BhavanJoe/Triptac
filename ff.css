@@ -1,0 +1,80 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: aliceblue;
+}
+.Karuppan{
+    border: 2px;
+    border-style: solid;
+    width: 265px;
+    height:648px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 60px;
+    padding-left: 15px;
+    padding-right: 15PX;
+}
+.Karuppan img{
+    width:180px;
+    margin-left: 40px;
+}
+.Karuppan button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.Karuppan button:hover{
+    background-color: green;
+}
+.rudran{
+    border: 2px;
+    border-style: solid;
+    width: 265px;
+    height:648px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 460px;
+    margin-top: -650px;
+    padding-left: 15px;
+    padding-right: 15PX;
+}
+.rudran img{
+    width:280px;
+    height: 235px;
+    margin-left: -5px;
+}
+.rudran button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.rudran button:hover{
+    background-color: green;
+}
+.wolverine{
+    border: 2px;
+    border-style: solid;
+    width: 265px;
+    height:648px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 860px;
+    margin-top: -650px;
+    padding-left: 15px;
+    padding-right: 15PX;
+}
+.wolverine img{
+    width:180px;
+    height: 235px;
+    margin-left: 50px;
+}
+.wolverine button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.wolverine button:hover{
+    background-color: green;
+}

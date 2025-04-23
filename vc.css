@@ -1,0 +1,152 @@
+header{
+    background-color: aliceblue;
+}
+.five{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 30px;
+}
+.five img{
+    width:200px;
+}
+.five button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.five button:hover{
+    background-color: green;
+}
+.seven{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 350px;
+    margin-top: -312px;
+}
+.seven img{
+    width:200px;
+}
+.seven button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.seven button:hover{
+    background-color: green;
+}
+.twelve{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 670px;
+    margin-top: -312px;
+}
+.twelve img{
+    width:200px;
+}
+.twelve button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.twelve button:hover{
+    background-color: green;
+}
+.twenty{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 970px;
+    margin-top: -312px;
+}
+.twenty img{
+    width:200px;
+}
+.twenty button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.twenty button:hover{
+    background-color: green;
+}
+.thirty{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 30px;
+    margin-top: 55px;
+}
+.thirty img{
+    width:200px;
+}
+.thirty button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.thirty button:hover{
+    background-color: green;
+}
+.ff{
+    border: 2px;
+    border-style: solid;
+    width: 200px;
+    height:310px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 350px;
+    margin-top: -312px;
+}
+.ff img{
+    width:200px;
+}
+.ff button
+{
+    margin-left: 50px;
+    border-color: transparent;
+    background-color: yellow;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: -15px;
+}
+.ff button:hover{
+    background-color: green;
+}

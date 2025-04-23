@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: aliceblue;
+}
+.velavan{
+    border: 2px;
+    border-style: solid;
+    width: 255px;
+    height:635px;
+    box-shadow: 05px 10px 10px 15px grey;
+    border-color: transparent;
+    margin-left: 60px;
+    padding-left: 15px;
+}
+.velavan img{
+    width:180px;
+    margin-left: 50px;
+    margin-left: 25px;
+}
+.velavan button{
+    margin-left:50px;
+    border-color:transparent;
+    background-color: yellow;
+}
+.velavan button:hover{
+    background-color: green;
+}

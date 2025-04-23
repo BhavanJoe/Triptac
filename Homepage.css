@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: aliceblue;
+    position: sticky;
+}
+.Home{
+    border: 5px;
+    border-style: solid;
+    border-color: transparent;
+    background: rgba(23, 23, 23, 0.403);
+    width:430px;
+    height: 660px;
+    margin-left: 750px;
+    padding-left: 10px;
+}
+a img{
+    width: 235px;
+    height:230px;
+    padding-left: 80px;
+    padding-bottom: 10px;
+}
+a button{
+    margin-left: 145px;
+    margin-top: -200px;
+    background-color: yellow;
+    border-color: transparent;
+}
+a button:hover{
+    background-color: green;
+}
+ .logo img{
+    margin-left: -25px;
+    position:fixed;
+}

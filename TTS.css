@@ -1,0 +1,54 @@
+body{
+    background-size: cover;
+    background-attachment: fixed;
+}
+header{
+    background-color: aliceblue;
+}
+img{
+    margin-left: 270px;
+}
+.select{
+    border: 2px;
+    border-style: groove;
+    border-color: transparent;
+    background: rgba(23, 23, 23, 0.403);
+    width: 450px;
+    height: 500px;
+    padding-left: 120px;
+    padding-top: 100px;
+    margin-left: 305px;
+    border-radius: 100%;
+    padding-right: -550px;
+}
+.select input[type="text"]
+{
+    width:250px;
+}
+.select input[type="tel"]
+{
+    width:250px;
+}
+.select input[type="number"]
+{
+    width:220px;
+}
+.select select
+{
+    width:230px;
+}
+.select input[type="date"]
+{
+    width:210px;
+}
+.select button{
+    margin-left: 120px;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    background-color: yellow;
+    border-color: transparent;
+}
+.select button:hover
+{
+    background-color: green;
+}
